@@ -1,0 +1,10 @@
+/home/sundog/catkin_ws/src/vslam2/build/CMakeFiles/uninstall.dir
+/home/sundog/catkin_ws/src/vslam2/build/CMakeFiles/vslam2_uninstall.dir
+/home/sundog/catkin_ws/src/vslam2/build/CMakeFiles/vslam2_mono.dir
+/home/sundog/catkin_ws/src/vslam2/build/CMakeFiles/test.dir
+/home/sundog/catkin_ws/src/vslam2/build/CMakeFiles/edit_cache.dir
+/home/sundog/catkin_ws/src/vslam2/build/CMakeFiles/rebuild_cache.dir
+/home/sundog/catkin_ws/src/vslam2/build/CMakeFiles/list_install_components.dir
+/home/sundog/catkin_ws/src/vslam2/build/CMakeFiles/install.dir
+/home/sundog/catkin_ws/src/vslam2/build/CMakeFiles/install/local.dir
+/home/sundog/catkin_ws/src/vslam2/build/CMakeFiles/install/strip.dir

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/sundog/catkin_ws/src/vslam2/build",
+  "command": "/usr/bin/clang++ -DHAVE_EIGEN -DHAVE_GLEW -DHAVE_PYTHON -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/sundog/catkin_ws/Dev/ORB_SLAM3 -I/home/sundog/catkin_ws/Dev/ORB_SLAM3/include -I/home/sundog/catkin_ws/Dev/ORB_SLAM3/include/CameraModels -I/home/sundog/catkin_ws/Dev/ORB_SLAM3/Thirdparty/Sophus -I/home/sundog/catkin_ws/src/vslam2/include -I/home/sundog/catkin_ws/src/vslam2/opt/ros/humble/include -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -g -Wall -Wextra -Wpedantic -std=gnu++17 -o CMakeFiles/vslam2_mono.dir/src/mono_node.cc.o -c /home/sundog/catkin_ws/src/vslam2/src/mono_node.cc",
+  "file": "/home/sundog/catkin_ws/src/vslam2/src/mono_node.cc"
+},
+{
+  "directory": "/home/sundog/catkin_ws/src/vslam2/build",
+  "command": "/usr/bin/clang++ -DHAVE_EIGEN -DHAVE_GLEW -DHAVE_PYTHON -DPANGO_DEFAULT_WIN_URI=\\\"x11\\\" -D_LINUX_ -I/home/sundog/catkin_ws/Dev/ORB_SLAM3 -I/home/sundog/catkin_ws/Dev/ORB_SLAM3/include -I/home/sundog/catkin_ws/Dev/ORB_SLAM3/include/CameraModels -I/home/sundog/catkin_ws/Dev/ORB_SLAM3/Thirdparty/Sophus -I/home/sundog/catkin_ws/src/vslam2/include -I/home/sundog/catkin_ws/src/vslam2/opt/ros/humble/include -isystem /usr/include/eigen3 -isystem /usr/local/include/opencv -g -Wall -Wextra -Wpedantic -std=gnu++17 -o CMakeFiles/vslam2_mono.dir/src/common.cc.o -c /home/sundog/catkin_ws/src/vslam2/src/common.cc",
+  "file": "/home/sundog/catkin_ws/src/vslam2/src/common.cc"
+}
+]

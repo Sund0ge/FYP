@@ -1,0 +1,4 @@
+source;share/vslam2/local_setup.bash
+source;share/vslam2/local_setup.dsv
+source;share/vslam2/local_setup.sh
+source;share/vslam2/local_setup.zsh
